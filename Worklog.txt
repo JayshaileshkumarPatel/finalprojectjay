@@ -1,0 +1,25 @@
+2022-03-14(aprox 1 hour)
+- copied script template from the d2l and pasted it into the github repo
+- setup the vs code for the debugging.
+
+2022-03-16(aprox 1 hour)
+- finished the function to create the data base(db) file with the help of previous labs.
+
+2022-03-22
+- finished the function that adds the specified apod image to data base.
+
+2022-03-27(aprox 1 hour)
+- finished the function that gets the information from nasa api for the astronomy picture of the day from the perticular date.
+- I used lecture resources and lab to to figure it out.
+
+2022-04-08(aprox 1.5 hours)
+- created a function that determines whether the image in response messege already excist or not by comparing its SHA-256 value
+
+2022-04-24(aprox 2 hours)
+- finished the function that download the apod image from the specified url.
+- finished the function that save this downloaded image to the local disk.
+- cretaed a function that changes the desktop wallpaper to specified image.
+- I used the lab and its resources to comlete this function.
+
+2022-04-28(aprox 1.5 hours)
+- filled some blanks like image url and image SHA-256 and checked the whole project to confirm everything that is done and does not have error and gave may best to solve it.
